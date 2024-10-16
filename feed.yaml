@@ -1,18 +1,18 @@
-title: The Future in Tech
-subtitle: Powered by LinkedIn Learning
-author: Ray Villalobos
-description: Conversations with leaders building next generation techology tools.
-image: /images/artwork.jpg
+title: Tajer Podcast
+subtitle: A Podcast about Founder Stories (in Persian)
+author: Davoud Sadeghlou
+description: In each episod of this podcast, you can find a unique story about Ideas, failures and chanllengues that lead to an incredible and innovative change.
+image: /images/podcast-logo.png
 language: en-us
-category: Technology
+category: Entrprenuership & Founder Stories
 format: audio/mpeg
 item:
-  - title: EP01-What's Happening in 2023
-    description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
-    published: Thu, 12 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT01.mp3
-    duration: 00:00:36
-    length: 576,324
+  - title: E001 - Vicky Tsai & Tatcha
+    description: The story of a serious skin disease that ended with the launch of an incredible product line for skin care products.
+    published: Dec 16, 2023 8:30 PM
+    file: /audio/TajerPodcast-E001.mp3
+    duration: 00:51:21
+    length: 24.5 mb
   - title: EP02-What is Generative AI?
     description:  Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2023.
     published: Thu, 19 Jan 2023 18:00:00 GMT

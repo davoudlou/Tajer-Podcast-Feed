@@ -1,4 +1,4 @@
-<img src="https://davoudlou.github.io/PodcastFeed/tajer-logo.png" width="250"> 
+<img src="https://davoudlou.github.io/Tajer-Podcast-Feed/images/tajer-logo.png" width="250"> 
 
 Welcome to the Tajer Podcast hosting by Davoud Sadeghlou. A podcast where we share the inspiring stories behind various businesses. Each episode delves into the challenges, successes, and key moments that turn simple ideas into entrepreneurial success stories.
 

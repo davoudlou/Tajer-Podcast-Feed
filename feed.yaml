@@ -4,7 +4,7 @@ author: Davoud Sadeghlou
 description: In each episod of this podcast, you can find a unique story about Ideas, failures and chanllengues that lead to an incredible and innovative change.
 image: /images/podcast-logo.png
 language: en-us
-category: Entrprenuership & Founder Stories
+category: Entrpreneurship & Founder Stories
 format: audio/mpeg
 item:
   - title: E001 - Vicky Tsai & Tatcha
@@ -13,12 +13,12 @@ item:
     file: /audio/TajerPodcast-E001.mp3
     duration: 00:51:21
     length: 24.5 mb
-  - title: EP02-What is Generative AI?
-    description:  Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2023.
-    published: Thu, 19 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT02.mp3
-    duration: 00:00:22
-    length: 351,963
+  - title: E002 - TOMS Shoes & Blake Mycoskie
+    description:  The a story of a serial entrepreneur who built a shoe impire after he met a group of volunteers delivering shoes to the poor in Argenitna.
+    published: Jan 22, 2024 8:28 PM
+    file: /audio/TajerPodcast-E002.mp3
+    duration: 00:44:32
+    length: 21.2 mb
   - title: EP03-How Generative AI Will Change DevOps
     description:  Jerome Hardaway explores how generative AI can revolutionize the software development process by increasing efficiency, automating repetitive tasks, and creating more sophisticated and innovative solutions.
     published: Thu, 26 Jan 2023 18:00:00 GMT
